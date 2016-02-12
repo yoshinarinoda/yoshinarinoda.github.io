@@ -20,7 +20,7 @@ nav {
   max-width: 1000px;
 }
 
-p.title{
+.title{
     text-align: center;
     font-size: 52px;
     color: green;
@@ -51,15 +51,14 @@ p {
 }
 
 .ab {
-  text-align: center;
+  margin: 0 auto;
 }
 
 section {
   background-color: #ddd;
   max-width:500px;
-  text-align: center;
   padding: 0 10px;
-  
+  margin: 0 auto;
 }
 footer {
   font-size: 30px;
